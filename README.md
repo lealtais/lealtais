@@ -13,10 +13,15 @@ Estatísticas do GitHub 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tais-leal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/lealtais)
 
+
+
+
 <div align=center>
 <a href="https://github.com/lealtais">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&langs_count=7&theme=dracula"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&theme=dracula&include_all_comsits=true&count_private=true"/>    
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&langs_count=7&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/> 
+
+ 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&include_all_comsits=true&count_private=true"/>    
 </div>
 
 <h2> Minhas Paixões 💻💡</h2>
