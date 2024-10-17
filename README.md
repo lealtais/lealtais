@@ -47,6 +47,7 @@ Habilidades Técnicas 🛠️
 <h2> Hard Skills 🛠️ </h2> 
 
 Linguagens de Programação que estou estudando: Python, JavaScript, HTML, CSS, Java, C# <br>
+Acompanhe meus estudos aqui: @taisedu
 Ferramentas: Git, Visual Sudio, Visual StudioCode <br>
 
 Soft Skills 🌟 <br>
