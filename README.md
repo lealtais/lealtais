@@ -14,20 +14,18 @@ Estatísticas do GitHub 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/lealtais)
 
 
-
-
-<div align=center>
-<a href="https://github.com/lealtais">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&langs_count=7&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly"/> 
-
- 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues=false&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly&include_all_comsits=true&count_private=true"/>    
+<div align="center">
+  <a href="https://github.com/lealtais">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&langs_count=7&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="Top Languages"/>
+  </a>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="GitHub Stats"/>
 </div>
 
 <h2> Minhas Paixões 💻💡</h2>
 
 🌟 Informática e Tecnologia
-Descobri minha paixão por informática em 2018, aos 15 anos, quando meu interesse em cibersegurança despertou. Desde então, venho me aprofundando na área da tecnologia e explorando diversas vertentes da TI.
+Descobri minha paixão por informática em 2018, quando meu interesse em cibersegurança despertou. Desde então, venho me aprofundando na área da tecnologia e explorando diversas vertentes da TI.
 
 🚀 Cibersegurança e FullStack
 Iniciei minha jornada como técnica em informática no IFSP de Cubatão em 2019, onde tive a oportunidade de aprender e explorar o mundo da TI. Meu objetivo é me tornar FullStack e também ingressar no mundo da ciberegurança.
