@@ -1,70 +1,91 @@
- Olá! Eu sou Taís Leal Almeida 👋
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
- 
-idade: 21;  <br>
-profissão: "Técnica em Informática | Estudante de Tecnologia na Fatec Rubens Lara"; <br>
-status: "À procura de uma oportunidade no mercado de tecnologia"; <br>
-localizção: "Santos, SP, Brasil" <br>
+# Hi there, I'm Taís Leal! 👋
+
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
 
- 
-Estatísticas do GitHub 🚀
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tais-leal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/lealtais)
+### **IT Technician & Internet Systems Student**
+*Currently studying Internet Systems at FATEC and looking for opportunities in Tech.*
 
-
-<div align="center">
-  <a href="https://github.com/lealtais">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&langs_count=7&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="Top Languages"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/tais-leal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6" alt="GitHub Stats"/>
+  <a href="https://github.com/lealtais">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </div>
 
-<h2> Minhas Paixões 💻💡</h2>
-
-🌟 Informática e Tecnologia
-Descobri minha paixão por informática em 2018, quando meu interesse em cibersegurança despertou. Desde então, venho me aprofundando na área da tecnologia e explorando diversas vertentes da TI.
-
-🚀 Cibersegurança e FullStack
-Iniciei minha jornada como técnica em informática no IFSP de Cubatão em 2019, onde tive a oportunidade de aprender e explorar o mundo da TI. Meu objetivo é me tornar FullStack e também ingressar no mundo da ciberegurança.
-
-🤖 Robótica
-A robótica é uma área que considero extremamente fascinante e estou ansiosa para mergulhar nesse universo, aplicando meus conhecimentos e habilidades para criar soluções inovadoras.
-
-<h2> Experiência Profissional 📂</h2>
-
-Auxiliar de Informática (Estagiária)
-Instituto Federal de São Paulo (IFSP) | 9 meses
-
-Ministrava aulas de programação básica, HTML e CSS para meninas de escolas públicas.
-Incentivava a escolha da informática como carreira.
-Habilidades Técnicas 🛠️
-
-<h2> Hard Skills 🛠️ </h2> 
-
-Linguagens de Programação que estou estudando: Python, JavaScript, HTML, CSS, Java, C# <br>
-Acompanhe meus estudos aqui: @taisedu
-Ferramentas: Git, Visual Sudio, Visual StudioCode <br>
-
-Soft Skills 🌟 <br>
-Criatividade: Capacidade de abordar problemas de maneira inovadora e eficaz. <br>
-Persistência: Determinação para alcançar objetivos e superar desafios. <br>
-Agilidade em Aprender: Adaptabilidade a novas tecnologias e situações. <br>
-Formação Acadêmica 🎓
-Técnica em Informática | IFSP Cubatão (2022) <br>
-Tecnologia em Sistemas para Internet | Fatec Rubens Lara (em andamento) <br>
-
-<h2> Contato 📫 </h2>
-Email: tais.leal.almeida@gmail.com <br>
-GitHub: github.com/lealtais
-
 ---
 
-Vamos nos Conectar! 🚀
+## 🚀 About Me
 
-Estou sempre aberta a novas oportunidades e colaborações. Se você está procurando alguém apaixonado por tecnologia e ansioso para aprender e contribuir, não hesite em me contatar!
+I am a passionate **IT Technician** and technology explorer based in **Brazil**. I love solving complex challenges and constantly pushing the boundaries of what I can build.
 
+*   💻 **Focus Areas:** Deeply interested in **Backend Development**, **Data Engineering/Analytics**, and **Cybersecurity**.
+*   🎮🏒 **Sports Tech Passion:** I combine my technical skills with my love for sports and eSports. I am currently exploring **NHL puck analysis using Edge-to-Edge AI technology** to track real-time game dynamics. I love using technology to unlock insights in the sports world!
+*   📚 **Always Learning:** I enjoy exploring state-of-the-art tech and building practical solutions (like mobile apps, APIs, and data scripts).
 
- 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+## 🛠️ Tech Stack & Tools
+
+### **Backend & Logic**
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+### **Frontend & Database**
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Hive%20DB-FFA500?style=flat-square&logo=hive&logoColor=white" alt="Hive"/>
+</div>
+
+### **DevOps & Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lealtais&layout=compact&langs_count=7&bg_color=0D1117&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=36123c&icon_color=FF00F6" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=36123c&icon_color=FF00F6" alt="GitHub Stats"/>
+</div>
+
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+## 🎮 Arcade Zone & Dynamic Contributions
+
+<div align="center">
+  <h3>My Contribution Snake 🐍</h3>
+  <!-- This is the snake eating your contribution squares dynamically! -->
+  <img src="https://raw.githubusercontent.com/lealtais/lealtais/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Dynamic Pac-Man and retro pixel-art Hockey player side-by-side! -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/active-developer.gif" height="80px" alt="Pacman Retro Animation"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0d3phdm9hNW12Z3hhaDFmaDhuNDV0NXpnbnp5ZWR6cmVxanBveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9hY27S4jS1x8S2h0k/giphy.gif" height="80px" alt="Pixel Hockey Player Animation"/>
+</div>
+
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+## 📫 Let's Connect!
+
+*   **Email:** [tais.leal.almeida@gmail.com](mailto:tais.leal.almeida@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/tais-leal](https://www.linkedin.com/in/tais-leal/)
+
+*“Exploring technology to build the future of sports and software analytics.”*
