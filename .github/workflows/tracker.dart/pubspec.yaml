@@ -1,0 +1,8 @@
+name: nhl_tracker
+description: A Dart script to track Toronto Maple Leafs scores on GitHub.
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
