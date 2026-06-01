@@ -73,11 +73,10 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SM4yUtX9MvKdq/giphy.gif" height="80px" alt="Pacman Retro Animation"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/X9hY27S4jS1x8S2h0k/giphy.gif" height="80px" alt="Pixel Hockey Player Animation"/>
-</div>
+<!-- NHL-START -->
+<!-- NHL-END -->
+
+
 ## 📫 Let's Connect!
 
 *   **Email:** [tais.leal.almeida@gmail.com](mailto:tais.leal.almeida@gmail.com)
