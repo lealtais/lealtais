@@ -67,7 +67,6 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
 ## 🎮 Arcade Zone & Dynamic Contributions
 
 <div align="center">
-  <h3>My Contribution Snake 🐍</h3>
   <!-- This is the snake eating your contribution squares dynamically! -->
   <img src="https://raw.githubusercontent.com/lealtais/lealtais/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
