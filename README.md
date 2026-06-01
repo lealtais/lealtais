@@ -74,14 +74,10 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
 <br>
 
 <div align="center">
-  <!-- Dynamic Pac-Man and retro pixel-art Hockey player side-by-side! -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/active-developer.gif" height="80px" alt="Pacman Retro Animation"/>
+  <img src="https://media.giphy.com/media/SM4yUtX9MvKdq/giphy.gif" height="80px" alt="Pacman Retro Animation"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0d3phdm9hNW12Z3hhaDFmaDhuNDV0NXpnbnp5ZWR6cmVxanBveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X9hY27S4jS1x8S2h0k/giphy.gif" height="80px" alt="Pixel Hockey Player Animation"/>
+  <img src="https://media.giphy.com/media/X9hY27S4jS1x8S2h0k/giphy.gif" height="80px" alt="Pixel Hockey Player Animation"/>
 </div>
-
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
-
 ## 📫 Let's Connect!
 
 *   **Email:** [tais.leal.almeida@gmail.com](mailto:tais.leal.almeida@gmail.com)
