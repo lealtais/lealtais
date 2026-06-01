@@ -1,0 +1,30 @@
+name: Update NHL Leafs Score
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Dart SDK
+        uses: dart-lang/setup-dart@v1
+
+      - name: Install dependencies
+        run: dart pub get
+        working-directory: ./nhl_tracker
+
+      - name: Run NHL Tracker
+        run: dart run tracker.dart
+        working-directory: ./nhl_tracker
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "auto: update Toronto Maple Leafs last game score"
+          file_pattern: "README.md"
