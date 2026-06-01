@@ -74,6 +74,13 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
 <br>
 
 <!-- NHL-START -->
+### 🍁 Toronto Maple Leafs - Last Game 🏒
+
+| Game Date | Matchup | Score | Status |
+| :--- | :--- | :--- | :--- |
+| 2026-04-15 | Toronto vs Ottawa | **1 - 3** | 🔴 Final |
+
+*Data automatically updated directly from the NHL API!*
 <!-- NHL-END -->
 
 
