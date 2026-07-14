@@ -84,7 +84,7 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
         <h3 style="margin-top: 0; color: #0077B5;">🍁 Toronto Maple Leafs Live Tracker 🏒</h3>
         <p style="margin: 5px 0; font-size: 15px;"><b>Last Matchup:</b> Toronto vs Ottawa</p>
         <p style="margin: 5px 0; font-size: 15px;"><b>Score:</b> <span style="background-color: #00205B; color: white; padding: 3px 8px; border-radius: 4px; font-weight: bold;"> 1 - 3 </span> &nbsp;🔴 Final (2026-04-15)</p>
-        <p style="margin: 5px 0; font-size: 14px; color: #0077B5;">⏳ <b>86 days</b> until the 2026-27 NHL Season Kickoff!</p>
+        <p style="margin: 5px 0; font-size: 14px; color: #0077B5;">⏳ <b>85 days</b> until the 2026-27 NHL Season Kickoff!</p>
         <p style="margin: 5px 0; font-size: 11px; color: #888;"><i>Data automatically updated directly from the NHL API!</i></p>
       </td>
     </tr>
