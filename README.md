@@ -1,68 +1,83 @@
-# Hi there, I'm Taís Leal! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=150&section=header" width="100%"/>
+</p>
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=70&lines=Tais+Leal;Fullstack+Developer;Mobile+Developer;Deep+Learning" alt="Typing SVG" />
+</p>
 
-### **IT Technician & Internet Systems Student**
-*Currently studying Internet Systems at FATEC and looking for opportunities in Tech.*
+### **> IT_Technician & Internet_Systems_Student**
+*Currently studying Internet Systems at FATEC.*
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tais-leal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/lealtais">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=lealtais&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **IT Technician** and technology explorer based in **Brazil**. I love solving complex challenges and constantly pushing the boundaries of what I can build.
+I'm passionate about technology, building **fullstack** and **mobile** solutions, and love exploring new frontiers in the field.
 
-*   💻 **Focus Areas:** Deeply interested in **Backend Development**, **Data Engineering/Analytics**, and **Cybersecurity**.
-*   🎮🏒 **Sports Tech Passion:** I combine my technical skills with my love for sports and eSports. I am currently exploring **NHL puck analysis using Edge-to-Edge AI technology** to track real-time game dynamics. I love using technology to unlock insights in the sports world!
-*   📚 **Always Learning:** I enjoy exploring state-of-the-art tech and building practical solutions (like mobile apps, APIs, and data scripts).
+*   💻 **Focus Areas:** **Backend Development**, **Data Engineering/Analytics**, and **Cybersecurity**.
+*   🧠 **Deep Learning:** I build and train deep neural networks for real-world problems — including a Keras-based lung nodule classifier, applying deep learning to early cancer detection.
+*   🎮🏒 **Sports Tech:** I combine my technical skills with my love for sports and eSports. I'm currently exploring **NHL puck analysis using Edge-to-Edge AI technology** to track real-time game dynamics!
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3">
 
 ## 🛠️ Tech Stack & Tools
 
-### **Backend & Logic**
+### <span style="color:#00FF41">Backend & Logic</span>
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41&color=000000&labelColor=000000" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00FF41&color=000000&labelColor=000000" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41&color=000000&labelColor=000000" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=00FF41&color=000000&labelColor=000000" alt="C#"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00FF41&color=000000&labelColor=000000" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41&color=000000&labelColor=000000" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41&color=000000&labelColor=000000" alt="JavaScript"/>
 </div>
 
-### **Frontend & Database**
+### <span style="color:#00FF41">AI & Deep Learning</span>
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Hive%20DB-FFA500?style=flat-square&logo=hive&logoColor=white" alt="Hive"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41&color=000000&labelColor=000000" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF41&color=000000&labelColor=000000" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=00FF41&color=000000&labelColor=000000" alt="Keras"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=flat-square&logo=yolo&logoColor=00FF41&color=000000&labelColor=000000" alt="YOLO"/>
 </div>
 
-### **DevOps & Tools**
+### <span style="color:#00FF41">Frontend & Database</span>
 <div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF41&color=000000&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41&color=000000&labelColor=000000" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41&color=000000&labelColor=000000" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41&color=000000&labelColor=000000" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Hive%20DB-000000?style=flat-square&logo=hive&logoColor=00FF41&color=000000&labelColor=000000" alt="Hive"/>
 </div>
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+### <span style="color:#00FF41">DevOps & Tools</span>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF41&color=000000&labelColor=000000" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=00FF41&color=000000&labelColor=000000" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41&color=000000&labelColor=000000" alt="Linux"/>
+</div>
+
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3">
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lealtais&layout=compact&langs_count=7&bg_color=0D1117&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=36123c&icon_color=FF00F6" alt="Top Languages"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=36123c&icon_color=FF00F6" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lealtais&layout=compact&langs_count=7&bg_color=000000&title_color=00FF41&text_color=00FF41&border_radius=8&border_color=00FF41&icon_color=00FF41" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=00FF41&border_radius=8&border_color=00FF41&icon_color=00FF41" alt="GitHub Stats"/>
 </div>
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3">
 
 ## 🎮 Arcade Zone & Dynamic Contributions
 
@@ -75,27 +90,27 @@ I am a passionate **IT Technician** and technology explorer based in **Brazil**.
 
 <!-- NHL-START -->
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td width="160" align="center" valign="middle" style="border: none; background: transparent;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/512px-Toronto_Maple_Leafs_2016_logo.svg.png" width="130" alt="Toronto Maple Leafs Logo"/>
+  <table border="0" style="border-collapse: collapse; border: none; background: #000000;">
+    <tr style="border: none; background: #000000;">
+      <td width="160" align="center" valign="middle" style="border: none; background: #000000;">
+        <img src="https://logos-world.net/wp-content/uploads/2020/05/Toronto-Maple-Leafs-Logo-1927-1938.png" width="130" alt="Toronto Maple Leafs Logo"/>
       </td>
-      <td valign="middle" style="border: none; text-align: left; padding-left: 20px; background: transparent;">
-        <h3 style="margin-top: 0; color: #0077B5;">🍁 Toronto Maple Leafs Live Tracker 🏒</h3>
-        <p style="margin: 5px 0; font-size: 15px;"><b>Last Matchup:</b> Toronto vs Ottawa</p>
-        <p style="margin: 5px 0; font-size: 15px;"><b>Score:</b> <span style="background-color: #00205B; color: white; padding: 3px 8px; border-radius: 4px; font-weight: bold;"> 1 - 3 </span> &nbsp;🔴 Final (2026-04-15)</p>
-        <p style="margin: 5px 0; font-size: 14px; color: #0077B5;">⏳ <b>84 days</b> until the 2026-27 NHL Season Kickoff!</p>
-        <p style="margin: 5px 0; font-size: 11px; color: #888;"><i>Data automatically updated directly from the NHL API!</i></p>
+      <td valign="middle" style="border: none; text-align: left; padding-left: 20px; background: #000000;">
+        <h3 style="margin-top: 0; color: #00FF41;">🍁 Toronto Maple Leafs Live Tracker 🏒</h3>
+        <p style="margin: 5px 0; font-size: 15px; color: #00FF41;"><b>Last Matchup:</b> Toronto vs Ottawa</p>
+        <p style="margin: 5px 0; font-size: 15px; color: #00FF41;"><b>Score:</b> <span style="background-color: #00FF41; color: black; padding: 3px 8px; border-radius: 4px; font-weight: bold;"> 1 - 3 </span> &nbsp;🟢 Final (2026-04-15)</p>
+        <p style="margin: 5px 0; font-size: 14px; color: #00FF41;">⏳ <b>84 days</b> until the 2026-27 NHL Season Kickoff!</p>
+        <p style="margin: 5px 0; font-size: 11px; color: #008F11;"><i>Data automatically updated directly from the NHL API!</i></p>
       </td>
     </tr>
   </table>
 </div>
 <!-- NHL-END -->
 
-
 ## 📫 Let's Connect!
 
-*   **Email:** [tais.leal.almeida@gmail.com](mailto:tais.leal.almeida@gmail.com)
+*   **Email:** [taislealalmeida@gmail.com](mailto:tais.leal.almeida@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/tais-leal](https://www.linkedin.com/in/tais-leal/)
 
-*“Exploring technology to build the future of sports and software analytics.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%"/>
