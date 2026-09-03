@@ -88,23 +88,6 @@ I'm passionate about technology, building **fullstack** and **mobile** solutions
 
 <br>
 
-<!-- NHL-START -->
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none; background: #000000;">
-    <tr style="border: none; background: #000000;">
-      <td width="160" align="center" valign="middle" style="border: none; background: #000000;">
-        <img src="https://logos-world.net/wp-content/uploads/2020/05/Toronto-Maple-Leafs-Logo-1927-1938.png" width="130" alt="Toronto Maple Leafs Logo"/>
-      </td>
-      <td valign="middle" style="border: none; text-align: left; padding-left: 20px; background: #000000;">
-        <h3 style="margin-top: 0; color: #00FF41;">🍁 Toronto Maple Leafs Live Tracker 🏒</h3>
-        <p style="margin: 5px 0; font-size: 15px; color: #00FF41;"><b>Last Matchup:</b> Toronto vs Ottawa</p>
-        <p style="margin: 5px 0; font-size: 15px; color: #00FF41;"><b>Score:</b> <span style="background-color: #00FF41; color: black; padding: 3px 8px; border-radius: 4px; font-weight: bold;"> 1 - 3 </span> &nbsp;🟢 Final (2026-04-15)</p>
-        <p style="margin: 5px 0; font-size: 14px; color: #00FF41;">⏳ <b>84 days</b> until the 2026-27 NHL Season Kickoff!</p>
-        <p style="margin: 5px 0; font-size: 11px; color: #008F11;"><i>Data automatically updated directly from the NHL API!</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
 <!-- NHL-END -->
 
 ## 📫 Let's Connect!
